@@ -1,4 +1,5 @@
 # Adding config.py file.
 
 WeatherPy/api_keys.py
+WeatherPy/__pycache__/
 Starter_Code/
